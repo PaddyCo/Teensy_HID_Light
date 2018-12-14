@@ -5,4 +5,4 @@ into a HID Light device which is compatible with certain arcade games
 
 ## Credits
 
-Thanks to (https://github.com/mon)[mon] for his (https://github.com/mon/Arduino-HID-Lighting)[Ardunio HID Lighting repository], without that this would not have been possible :)
+Thanks to [mon](https://github.com/mon) for his [Ardunio HID Lighting repository](https://github.com/mon/Arduino-HID-Lighting), without that this would not have been possible :)
